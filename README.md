@@ -11,7 +11,7 @@ There is an env file that you should include that is like the .env_example, that
 You can get it here:
 https://huggingface.co/settings/tokens
 
-There is a script in the login folder that will log you in once you enter your hf tokenm just run the script once it's in your .env.
+There is a script in the login folder that will log you in once you enter your hf token, just run the script once it's in your .env.
 
 ## Kaggle Setup
 
